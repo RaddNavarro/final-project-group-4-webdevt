@@ -18,7 +18,7 @@ function App() {
           Learn React
         </a>
       </header>
-    <p> test no neo </p>
+    
     </div>
   );
 }
