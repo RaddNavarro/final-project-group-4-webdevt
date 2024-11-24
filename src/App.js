@@ -18,6 +18,7 @@ function App() {
           Learn React
         </a>
       </header>
+      <p>what the sigma</p>
     </div>
   );
 }
