@@ -1,0 +1,7 @@
+export * from "./AddEmployee"
+export * from "./Home"
+export * from "./Login"
+export * from "./MyPayroll"
+export * from "./MyProfile"
+export * from "./PayrollLogs"
+export * from "./ViewEmployee"
